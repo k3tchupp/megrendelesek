@@ -1,0 +1,51 @@
+body{
+    background-color: grey;
+}
+h1{
+    text-align: center;
+    font-size: 18px;
+}
+h2{
+    text-align: center;
+    font-style: italic;
+}
+.sotet{
+    background-color: rgb(73, 68, 68);
+    color: white;
+}
+table{
+    text-align: center;
+    width: 800px;
+    background-color: gray;
+    border-collapse: collapse;
+}
+td{
+    border: 3px solid black;
+}
+#kiemelt{
+
+}
+.kep{
+    width: 120px;
+}
+.nev{
+    width: 200px;
+}
+.mennyiseg{
+    width: 100px;
+}
+.netto_ar{
+    width: 100px;
+}
+.afa{
+    width: 50px;
+}
+.brutto_ar{
+    width: 100px;
+}
+.kepek{
+    height: 75px;
+}
+#jobbra{
+    text-align: right;
+}
